@@ -16,7 +16,7 @@ public class SwaggerConfig {
     @Bean
     public OpenAPI springDesafioGenAPI() {
         return new OpenAPI().info(
-                        new Info().title("Todo API que ninguem nunca fez")
+                        new Info().title("Melhor API de Todo do mundo ")
                                 .description("API de Todos feita para a aula da AWS... nem fiz isso na correria, confia")
                                 .version("v0.0.1")
                                 .license(new License()
